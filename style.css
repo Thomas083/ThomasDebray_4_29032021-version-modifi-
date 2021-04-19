@@ -677,7 +677,12 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
+}
+
+.text-center {
+    text-align: center;
+    color: #333333!important;
 }
 
 .tight-width-whitespace {
